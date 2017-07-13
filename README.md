@@ -3,4 +3,4 @@ Dummy Repo
 
 Hello goodmorning all.
 
-[Contribution guidelines for this project](link.)
+[Contribution guidelines for this project](LICENCE)
